@@ -130,7 +130,7 @@ p {
 /*section testimonials*/
 #testimonials {
   background: url("../images/section.jpg") no-repeat center center/cover;
-  height: 600px;
+  height: 600px; 
   overflow: hidden;
 }
 #testimonials .testimonial img {
@@ -170,73 +170,4 @@ footer {
   overflow: auto;
   text-align: center;
   color: #fff;
-}
-
-#navbar ul,
-#navbar ul li {
-  float: none;
-}
-
-#navbar h1 {
-  float: none;
-  text-align: center;
-}
-#navbar ul li a {
-  padding: 5px;
-  border-bottom: 1px dotted #ccc;
-}
-
-/* hero section */
-#hero {
-  height: 100%;
-}
-#hero .hero-content {
-  padding-top: 50px;
-  padding-bottom: 40px;
-}
-#hero .hero-content h1 {
-  font-size: 30px;
-}
-
-.text-lead {
-  font-size: 15px;
-}
-.btn {
-  font-size: 15px;
-  padding: 10px 14px;
-}
-
-/* about */
-#about {
-  height: 100%;
-  margin-bottom: 10px;
-}
-#about .content {
-  float: none;
-  width: 100%;
-}
-#about p {
-  font-size: 15px;
-  line-height: 1.2em;
-}
-
-#testimonials {
-  height: 100%;
-}
-#testimonials .testimonial img {
-  height: 50px;
-  width: 45px;
-}
-#testimonials .testimonial {
-  width: 80%;
-}
-.bg-primary p {
-  font-size: 12px;
-  line-height: 11px;
-}
-footer {
-  height: 35px;
-}
-footer p {
-  font-size: 10px;
 }
