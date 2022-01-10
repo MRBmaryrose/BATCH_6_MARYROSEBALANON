@@ -130,7 +130,7 @@ p {
 /*section testimonials*/
 #testimonials {
   background: url("../images/section.jpg") no-repeat center center/cover;
-  height: 600px; 
+  height: 600px;
   overflow: hidden;
 }
 #testimonials .testimonial img {
